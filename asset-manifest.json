@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reduc-react/static/css/main.073c9b0a.css",
+    "main.js": "/reduc-react/static/js/main.6303e713.js",
+    "static/js/787.817214fd.chunk.js": "/reduc-react/static/js/787.817214fd.chunk.js",
+    "index.html": "/reduc-react/index.html",
+    "main.073c9b0a.css.map": "/reduc-react/static/css/main.073c9b0a.css.map",
+    "main.6303e713.js.map": "/reduc-react/static/js/main.6303e713.js.map",
+    "787.817214fd.chunk.js.map": "/reduc-react/static/js/787.817214fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.6303e713.js"
+  ]
+}
